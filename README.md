@@ -63,5 +63,5 @@ To achieve zero-latency processing suitable for edge-node clinical environments,
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/Builder-Byte/JSON_Derulo_bmsce.git](https://github.com/Builder-Byte/JSON_Derulo_bmsce.git)
-cd JSON_Derulo_bmsce
+git clone [https://github.com/pallavi24kp/Multimodel-Behavioural-Model-.git](https://github.com/pallavi24kp/Multimodel-Behavioural-Model.git)
+cd Multimodel_Behavioural_Model
